@@ -1,0 +1,23 @@
+{
+  "name": "biblioteca",
+  "version": "1.0.0",
+  "description": "Coleção de livros - CRUD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delanorod/biblioteca.git"
+  },
+  "keywords": [
+    "Biblioteca;",
+    "library"
+  ],
+  "author": "Delano Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delanorod/biblioteca/issues"
+  },
+  "homepage": "https://github.com/delanorod/biblioteca#readme"
+}
